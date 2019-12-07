@@ -1,6 +1,10 @@
 # vocaloid
 
-A new Flutter project.
+A new Flutter UI project. just to train
+I tried to make it adapt to different screen size
+let's hope you will like it.
+
+![alt text](https://github.com/PavieOlivier/vocaloid/blob/master/images/Screen%20Shot%202019-12-07%20at%202.17.58%20PM.png?raw=true)
 
 ## Getting Started
 
